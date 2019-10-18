@@ -1,0 +1,9 @@
+﻿<xapCache source="c:\work\xmlrpc\build\buildfiles\samples\StateNameWindowsPhoneClient\Bin\Release\StateNameWindowsPhoneClient.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="3/12/2012 8:40:46 PM">
+  <file source="c:\work\xmlrpc\build\buildfiles\samples\StateNameWindowsPhoneClient\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="3/13/2011 3:13:16 AM" />
+  <file source="c:\work\xmlrpc\build\buildfiles\samples\StateNameWindowsPhoneClient\Background.png" archivePath="Background.png" lastWriteTime="3/13/2011 3:13:16 AM" />
+  <file source="c:\work\xmlrpc\build\buildfiles\samples\StateNameWindowsPhoneClient\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="3/13/2011 3:13:16 AM" />
+  <file source="c:\work\xmlrpc\build\buildfiles\samples\StateNameWindowsPhoneClient\obj\Release\StateNameWindowsPhoneClient.dll" archivePath="StateNameWindowsPhoneClient.dll" lastWriteTime="3/12/2012 8:40:46 PM" />
+  <file source="c:\work\xmlrpc\build\buildfiles\bin\CookComputing.XmlRpcPhone.dll" archivePath="CookComputing.XmlRpcPhone.dll" lastWriteTime="3/12/2012 8:40:45 PM" />
+  <file source="c:\work\xmlrpc\build\buildfiles\samples\StateNameWindowsPhoneClient\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="3/13/2011 3:13:16 AM" />
+  <file source="c:\work\xmlrpc\build\buildfiles\samples\StateNameWindowsPhoneClient\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="3/12/2012 8:40:46 PM" />
+</xapCache>
