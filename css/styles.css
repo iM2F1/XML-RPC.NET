@@ -1,0 +1,108 @@
+html
+{
+   
+}
+
+
+#googlead
+{
+    float: left;
+}
+
+#googlink
+{
+    position:relative; 
+    top: 40px;
+    }
+
+#headermenu
+{
+    float: right;
+}
+
+#content
+{
+    top:10px; 
+    margin-left: 150px;
+    margin-right: 10px;
+    right:20px;
+    bottom:10px; 
+    width: 728px;
+}  
+ 
+#footer
+{
+    font-size: x-small;
+    text-align: center
+} 
+    
+#donate
+{
+    float: right;
+    margin-left: 20px;
+}
+
+
+pre 
+{
+    font:13px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+    color:black;
+    background: #E8E8A6;
+    border: 1px black solid ;
+    padding: 5px;
+}
+
+body 
+{
+    width: 900px;
+    font-size: 14px;
+    font-family:helvetica, arial, freesans, clean, sans-serif;
+}
+
+
+H1, H2, H3, H4 {
+    font-family:verdana, arial, sans-serif;
+}
+H1 {
+  font-size: 200%;
+}
+H2 {
+  font-size: 110%;
+}
+H3 {
+  font-size: 100%;
+}
+H4 {
+  font-size: 80%;
+}
+
+
+.toc
+{
+}
+
+.toc a:link { text-decoration:none; }
+
+.toc a:visited { text-decoration:none; }
+
+.toc a:hover { text-decoration:underline;  }
+
+@media print 
+{
+   #content
+   {
+        position: relative;
+        overflow: visible;
+        left: 0px;
+   }
+   
+   #headermenu
+   {
+        display:none;
+   }
+   
+   #googlead
+   {
+        display:none;
+   }
+}
